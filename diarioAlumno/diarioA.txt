@@ -3,9 +3,9 @@
 11:30 Desayuno
 12:00 Tareas del hogar
 14:00 Comida
-14:30 
-18:00 
-19:00 
-21:30 
-22:30 
-24:00 
+14:30 Tesis
+18:00 Servicio social
+22:00 Cena 
+22:30 Cursillo
+23:30 Ducha
+24:00 Domrir
